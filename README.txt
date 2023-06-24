@@ -1,4 +1,4 @@
-***Si descargas solo los 2 principales lo puedes compilar en linux como se muestra mas abajo
+***Si descargas solo los 2 principales lo puedes compilar en linux como se muestra mas abajo, los demas archivos se crean con los comandos.
 1) calc.l 
 2) calc.y 
 
